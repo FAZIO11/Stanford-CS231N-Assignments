@@ -3,7 +3,6 @@
 
 This repository contains my solutions to the assignments of the [CS231n](http://cs231n.stanford.edu/) course offered by Stanford University (Spring 2018).
 
-Find course notes and assignments [here](http://cs231n.github.io) and be sure to check out the video lectures for [Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) and [Spring 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)!
 
 Assignments using Tensorflow are completed, those using Pytorch will be implemented in the future.
 
@@ -21,3 +20,4 @@ Assignments using Tensorflow are completed, those using Pytorch will be implemen
 - [Q4](https://github.com/jariasf/CS231n/blob/master/assignment2/ConvolutionalNetworks.ipynb): Convolutional Networks. (_Done_)
 
   
+The rest of the assignments will be added in the coming days....
