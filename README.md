@@ -1,4 +1,4 @@
-# CS231n: CS231n: Deep Learning for Computer Vision - Assignment Solutions
+# CS231n: Deep Learning for Computer Vision - Assignment Solutions
 
 
 This repository contains my solutions to the assignments of the [CS231n](http://cs231n.stanford.edu/) course offered by Stanford University (Spring 2018).
