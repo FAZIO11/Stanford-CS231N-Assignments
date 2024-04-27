@@ -20,4 +20,4 @@ Assignments using Tensorflow are completed, those using Pytorch will be implemen
 - [Q3](https://github.com/jariasf/CS231n/blob/master/assignment2/Dropout.ipynb): Dropout. (_Done_)
 - [Q4](https://github.com/jariasf/CS231n/blob/master/assignment2/ConvolutionalNetworks.ipynb): Convolutional Networks. (_Done_)
 
-- 
+  
